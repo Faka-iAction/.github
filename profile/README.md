@@ -39,6 +39,7 @@ If a creator does not deliver something that was paid for, the money is refunded
 | [api-dotnet-public](https://github.com/Faka-iAction/api-dotnet-public) | Backend in ASP.NET Core (C#), planned after the pilot |
 | [api-python-public](https://github.com/Faka-iAction/api-python-public) | Backend in FastAPI (Python), planned after the pilot |
 | [flutter-public](https://github.com/Faka-iAction/flutter-public) | Mobile app for Android and iOS |
+| [ui-public](https://github.com/Faka-iAction/ui-public) | The design system shared by the web, the mobile app and the admin |
 | [react-public](https://github.com/Faka-iAction/react-public) | Future React client, not part of the first release |
 | [video-gen-public](https://github.com/Faka-iAction/video-gen-public) | Tooling that renders tutorial and explainer videos |
 
