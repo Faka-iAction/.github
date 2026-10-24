@@ -2,11 +2,11 @@
 
 **Scan → interact → pay → outcome.**
 
-FAKA iAction is a planned platform that lets an audience interact with a creator by scanning a QR code or opening a link. A **creator** is anyone with an audience: a DJ, a musician, a radio presenter, a podcaster. The creator decides what the audience can do. An audience member scans, picks what they want, pays if there is a price, and the creator responds. The audience member does not need to install an app or create an account.
+FAKA iAction is a platform, being built, that lets an audience interact with a creator by scanning a QR code or opening a link. A **creator** is anyone with an audience: a DJ, a musician, a radio presenter, a podcaster. The creator decides what the audience can do. An audience member scans, picks what they want, pays if there is a price, and the creator responds. The audience member does not need to install an app or create an account.
 
 **FAKA iRequest**, for song requests and similar, is the first product on the platform.
 
-> **Nothing is live yet.** There is no running service, no app to download and no released code. The build is documented in public as it happens. See the [roadmap](https://github.com/Faka-iAction/docs-public/blob/main/ROADMAP.md) for what is in progress.
+> **Nothing is live yet.** There is no running service and no app to download. The web app, the API and the mobile app are built and tested on developers' machines; none of it is deployed. Their public repositories show how the code is organised, not its implementation. See the [roadmap](https://github.com/Faka-iAction/docs-public/blob/main/ROADMAP.md) for what each milestone has and still needs.
 
 ### What a creator can offer
 
@@ -34,12 +34,12 @@ If a creator does not deliver something that was paid for, the money is refunded
 | [docs-public](https://github.com/Faka-iAction/docs-public) | Plain-language introduction, scope, roadmap and glossary |
 | [architecture-public](https://github.com/Faka-iAction/architecture-public) | Architecture overview and design decisions |
 | [contracts-public](https://github.com/Faka-iAction/contracts-public) | The contract-first approach: the API and event contracts that every backend follows |
-| [api-symfony-public](https://github.com/Faka-iAction/api-symfony-public) | Reference implementation (Symfony / PHP): the web experience and the API |
+| [api-symfony-public](https://github.com/Faka-iAction/api-symfony-public) | Reference implementation (Symfony / PHP): the web experience and the API. Public skeleton: structure and signatures |
 | [api-spring-public](https://github.com/Faka-iAction/api-spring-public) | Backend in Spring Boot (Java), planned after the pilot |
 | [api-dotnet-public](https://github.com/Faka-iAction/api-dotnet-public) | Backend in ASP.NET Core (C#), planned after the pilot |
 | [api-python-public](https://github.com/Faka-iAction/api-python-public) | Backend in FastAPI (Python), planned after the pilot |
-| [flutter-public](https://github.com/Faka-iAction/flutter-public) | Mobile app for Android and iOS |
-| [ui-public](https://github.com/Faka-iAction/ui-public) | The design system shared by the web, the mobile app and the admin |
+| [flutter-public](https://github.com/Faka-iAction/flutter-public) | Mobile app for Android and iOS. Public skeleton: structure and signatures |
+| [ui-public](https://github.com/Faka-iAction/ui-public) | The design system shared by the web, the mobile app and the admin, and screenshots of every screen |
 | [react-public](https://github.com/Faka-iAction/react-public) | Future React client, not part of the first release |
 | [video-gen-public](https://github.com/Faka-iAction/video-gen-public) | Tooling that renders tutorial and explainer videos |
 
